@@ -9,6 +9,9 @@
 /bin
 /bin/*
 /*/bin
+/wwwroot
+/wwwroot/*
+/*/wwwroot
 TemporaryGeneratedFile_*.cs
 *.cache
 *.suo
